@@ -2,10 +2,21 @@
 <br/>
 <a href="https://raw.githubusercontent.com/arbahaam/azn_converter/tree/main/_files/manatx.apk">Download .apk</a>
 
-## Screenshots
-
-<img height="480px" src="https://raw.githubusercontent.com/arbahaam/hackertool/tree/main/Simulator Screen Shot - iPhone 13 Pro Max - 2021-12-11 at 00.50.48.png"> <img height="480px" src="https://raw.githubusercontent.com/arbahaam/azn_converter/tree/main/_files/screenshots//2.png"> <img height="480px" src="https://raw.githubusercontent.com/arbahaam/azn_converter/tree/main/_files/screenshots//3.png">
-<img height="480px" src="https://raw.githubusercontent.com/arbahaam/azn_converter/tree/main/_files/screenshots//4.png"> <img height="480px" src="https://raw.githubusercontent.com/arbahaam/azn_converter/tree/main/_files/screenshots//5.png">
-
+Functionality:
+1. Port scaning
+2. Traceroute
+3. DNS info
+4. Reverse DNS info
+5. Spam db scanner
+6. IP location info
+7. Mac address info
+8. Firewall info
+Used techs:
+State management: Bloc & Cubit
+Network req: http
+Arch: DDD
+DI- getit, injectable
+Those who want a code review should write in the inbox and give access
+PS: The limit is 250 requests collected with the app test api and no detailed work has been done in some parts.
 
 # hackertool
